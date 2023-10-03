@@ -1,0 +1,3 @@
+What is a remote repository?
+
+- A remote repository is a repository that is stored elsewhere that is not on your machine through the internet or a similar medium.
